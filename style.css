@@ -1,0 +1,105 @@
+/*CSS for Easier Layout assignment_Al Rodis*/
+
+*{
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body{
+	background: #777;
+	color: #ebebeb;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	margin-left: 150px;ß
+}
+
+header {
+	padding: 25px;
+	margin-bottom: 10px;
+	color: #333;
+	background: #ccc;
+	width: 960px;
+	height: 75px;
+}
+
+
+#nav{
+	padding: 25px;
+	margin-bottom: 10px;
+	color: #333;
+	background: #ccc;
+	width: 960px;
+	height: 75px;
+}
+
+#section{
+	float: left;
+	padding: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	color: #333;
+	background: #ccc;
+	width: 495px;
+	height: 300px;
+
+}
+
+#article{
+	background: #777;
+	color:#ebebeb;
+	height: 220px;
+	margin-top: 30px;
+	padding-top: 15px;
+	
+
+}
+
+#headers{
+	font-weight: bold;
+	padding: 20px;
+	margin-top: 20px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 10px;
+	color: #333;
+	background: #ccc;
+
+}
+
+#paragraph{
+	padding: 20px;
+	margin-top: 5px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	color: #333;
+	background: #ccc;
+	
+
+}
+
+#aside{
+	float: left;
+	padding: 20px;
+	margin-left: 1px;
+	margin-bottom: 10px;
+	color: #333;
+	background: #ccc;
+	width: 445px;
+	height: 300px;
+
+}
+
+footer{
+	clear:both;
+	overflow: auto;
+	padding: 25px;
+	margin-bottom: 20px;
+	color: #333;
+	background: #ccc;
+	width: 960px;
+	height: 75px;
+}
+
+
+
